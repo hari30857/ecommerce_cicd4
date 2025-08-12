@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/ecommerce_cicd3/'
+  base: '/ecommerce_cicd4/'
 });

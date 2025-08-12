@@ -22,7 +22,7 @@ function App() {
 
   return (
     <>
-      <Router basename="/ecommerce_cicd3">
+      <Router basename="/ecommerce_cicd4">
         <Routes>
           <Route path="/" element={<HomePage />}>
             <Route index element={<AboutUs />} />
